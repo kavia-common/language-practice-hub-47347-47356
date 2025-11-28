@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "title": "Basics: Greetings",
+    "level": 1,
+    "description": "Learn common greetings and introductions.",
+    "vocabulary": ["Hello", "Good morning", "Good evening", "How are you?", "Nice to meet you"]
+  },
+  {
+    "id": "2",
+    "title": "Essentials: Food",
+    "level": 1,
+    "description": "Order food and understand simple menus.",
+    "vocabulary": ["Water", "Bread", "Coffee", "Tea", "Please", "Thank you"]
+  },
+  {
+    "id": "3",
+    "title": "Travel: Directions",
+    "level": 2,
+    "description": "Ask for and understand directions in a city.",
+    "vocabulary": ["Left", "Right", "Straight", "Near", "Far", "Station", "Airport"]
+  }
+]
